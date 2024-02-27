@@ -10,7 +10,7 @@ do{
     {
         roleName = readUser.Trim().ToLower(); //stores in rolename
     }
-    if (roleName.Contains("administrator") || roleName.Contains("manager") || roleName.Contains("user")) //conditional
+    if (roleName == "administrator" || roleName == "manager" || roleName == "user") //conditional
     {
         validate = true;
    }

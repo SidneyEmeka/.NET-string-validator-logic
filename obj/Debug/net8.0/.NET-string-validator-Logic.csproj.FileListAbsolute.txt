@@ -12,3 +12,4 @@ C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\o
 C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.pdb
 C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.genruntimeconfig.cache
 C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\ref\.NET-string-validator-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.sourcelink.json

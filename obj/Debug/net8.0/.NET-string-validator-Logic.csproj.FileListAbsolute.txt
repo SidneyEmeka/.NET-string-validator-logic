@@ -1,0 +1,14 @@
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\bin\Debug\net8.0\.NET-string-validator-Logic.exe
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\bin\Debug\net8.0\.NET-string-validator-Logic.deps.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\bin\Debug\net8.0\.NET-string-validator-Logic.runtimeconfig.json
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\bin\Debug\net8.0\.NET-string-validator-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\bin\Debug\net8.0\.NET-string-validator-Logic.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.AssemblyInfo.cs
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\refint\.NET-string-validator-Logic.dll
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.pdb
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\.NET-string-validator-Logic.genruntimeconfig.cache
+C:\Users\USER\Documents\webworld\git\.NET Projects\.NET-string-validator-Logic\obj\Debug\net8.0\ref\.NET-string-validator-Logic.dll
